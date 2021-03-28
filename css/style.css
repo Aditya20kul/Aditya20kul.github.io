@@ -66,8 +66,8 @@ body {
   width: 100%;
   text-align: center;
 }
-h2 {
-  text-transform: uppercase;
+#intro h2 {
+  text-transform: capitalize;
   font-size: 50px;
   font-weight: 120;
   color: #ffffff;
